@@ -11,6 +11,6 @@ Technologies used while doing this project:
 
 4.Java Script
 
-5. SQL to build a database on localhost
+5.SQL to build a database on localhost
 
 
