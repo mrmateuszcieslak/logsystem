@@ -5,7 +5,7 @@ Technologies used while doing this project:
 
 1.PHP
 
-2.HTML
+2.HTML5
 
 3.Bootstrap version 4
 
